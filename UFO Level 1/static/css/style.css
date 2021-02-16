@@ -54,7 +54,7 @@
     color: white;
   }
   
-  /* Adding styles to the aside and filter form */
+  /* Adding styles to the side and filter form */
   .ufo-form {
     margin-top: 50px;
   }
@@ -119,7 +119,7 @@
     animation-delay: 1.2s;
   }
   
-  /* input placeholder color changes */
+  /* input placeholder color change */
   .form-control::-webkit-input-placeholder {
     /* Chrome/Opera/Safari */
     color: #8e979f;
